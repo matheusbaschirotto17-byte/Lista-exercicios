@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Último Farol",
+    "tipo": "Filme",
+    "genero": "Drama",
+    "ano": 2021,
+    "duracao_min": 112,
+    "classificacao": 12,
+    "nota": 8.1
+  },
+  {
+    "id": 2,
+    "titulo": "Corrida Final",
+    "tipo": "Filme",
+    "genero": "Ação",
+    "ano": 2023,
+    "duracao_min": 108,
+    "classificacao": 14,
+    "nota": 7.8
+  },
+  {
+    "id": 3,
+    "titulo": "Riso Garantido",
+    "tipo": "Filme",
+    "genero": "Comédia",
+    "ano": 2022,
+    "duracao_min": 95,
+    "classificacao": 10,
+    "nota": 7.5
+  },
+  {
+    "id": 4,
+    "titulo": "Planeta Azul",
+    "tipo": "Série",
+    "genero": "Documentário",
+    "ano": 2022,
+    "duracao_min": 360,
+    "classificacao": 0,
+    "nota": 9.0
+  },
+  {
+    "id": 5,
+    "titulo": "Risadas em Família",
+    "tipo": "Filme",
+    "genero": "Comédia",
+    "ano": 2024,
+    "duracao_min": 101,
+    "classificacao": 0,
+    "nota": 7.2
+  },
+  {
+    "id": 6,
+    "titulo": "Estação Marte",
+    "tipo": "Série",
+    "genero": "Ficção",
+    "ano": 2025,
+    "duracao_min": 480,
+    "classificacao": 12,
+    "nota": 8.4
+  },
+  {
+    "id": 7,
+    "titulo": "Noite de Aventura",
+    "tipo": "Filme",
+    "genero": "Ação",
+    "ano": 2020,
+    "duracao_min": 119,
+    "classificacao": 12,
+    "nota": 7.9
+  },
+  {
+    "id": 8,
+    "titulo": "Diário de Verão",
+    "tipo": "Série",
+    "genero": "Comédia",
+    "ano": 2020,
+    "duracao_min": 300,
+    "classificacao": 10,
+    "nota": 7.9
+  },
+  {
+    "id": 9,
+    "titulo": "Sombras do Passado",
+    "tipo": "Série",
+    "genero": "Drama",
+    "ano": 2018,
+    "duracao_min": 420,
+    "classificacao": 16,
+    "nota": 8.7
+  },
+  {
+    "id": 10,
+    "titulo": "Robôs da Escola",
+    "tipo": "Filme",
+    "genero": "Animação",
+    "ano": 2023,
+    "duracao_min": 88,
+    "classificacao": 0,
+    "nota": 8.3
+  },
+  {
+    "id": 11,
+    "titulo": "Mistério na Serra",
+    "tipo": "Filme",
+    "genero": "Suspense",
+    "ano": 2021,
+    "duracao_min": 105,
+    "classificacao": 14,
+    "nota": 8.0
+  },
+  {
+    "id": 12,
+    "titulo": "Cozinha de Mestre",
+    "tipo": "Série",
+    "genero": "Reality",
+    "ano": 2024,
+    "duracao_min": 240,
+    "classificacao": 0,
+    "nota": 6.9
+  },
+  {
+    "id": 13,
+    "titulo": "Além das Estrelas",
+    "tipo": "Filme",
+    "genero": "Ficção",
+    "ano": 2025,
+    "duracao_min": 142,
+    "classificacao": 12,
+    "nota": 8.9
+  },
+  {
+    "id": 14,
+    "titulo": "A Casa Escura",
+    "tipo": "Filme",
+    "genero": "Terror",
+    "ano": 2019,
+    "duracao_min": 110,
+    "classificacao": 16,
+    "nota": 7.6
+  },
+  {
+    "id": 15,
+    "titulo": "Campeões da Quadra",
+    "tipo": "Série",
+    "genero": "Drama",
+    "ano": 2025,
+    "duracao_min": 390,
+    "classificacao": 10,
+    "nota": 8.0
+  }
+]
